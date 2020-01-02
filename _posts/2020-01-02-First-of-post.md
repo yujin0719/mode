@@ -43,4 +43,4 @@ categories: Algorithm
 12. 변수 초기화 문제
 ```
 
-### (4) 디버깅과 테스팅
+
