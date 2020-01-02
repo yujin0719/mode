@@ -17,3 +17,12 @@ categories: Algorithm
 2. 코드 재사용하기 --> 코드를 모듈화
 3. 표준 라이브러리 공부하기 --> 문자열, 동적배열, 스택, 큐, 리스트, 딕셔너리 등의 자료구조, 정렬과 같은 표준 알고리즘 
 4. 항상 같은 형태로 프로그램을 작성하기 
+
+
+
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
