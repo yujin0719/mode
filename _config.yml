@@ -292,13 +292,6 @@ defaults:
       comments:  true
       share: true
       related: true
-      
-# _Pages 부분 
- - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+
  
       
