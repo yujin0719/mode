@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "알고리즘 분석"
+title:  "무식하게 풀기(brute-force)"
 date:   2020-01-02 23:10:00 +0900
 categories: Algorithm
 ---
 
-## 알고리즘을 평가하는 기준 : 시간 & 공간
+#### Brute-Force는 가능한 경우의 수를 일일이 나열하면서 정답을 찾는 방법이다. 
+
+### 재귀호출(recursion)
