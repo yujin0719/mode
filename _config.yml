@@ -19,8 +19,8 @@ locale                   : "ko_KR"
 title                    : "Yujin Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yujin Choi"
-description              : "An amazing website."
+name                     : "공부하면서 끄적이는 블로그"
+description              : "내맘대로 적어두기"
 url                      : "https://yujin0719.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -92,11 +92,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Yujin Choi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "개발자 지망생"
+  location         : "Korea"
+  email            :  "yujin1760@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
