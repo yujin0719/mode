@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "ko_KR"
-title                    : "Yujin Blog"
+title                    : "공부하면서 끄적이는 "
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "공부하면서 끄적이는 블로그"
